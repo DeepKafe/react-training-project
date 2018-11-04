@@ -1,0 +1,76 @@
+.App {
+    text-align: center;
+  }
+  
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+    height: 80px;
+  }
+  
+  .App-header {
+    background-color: #222;
+    height: 150px;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-title {
+    font-size: 1.5em;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  .login-page {
+    margin: 200px auto;
+  }
+  
+  .header-page {
+    background-color: #33BBFF;
+    color: #fff;
+    text-align: center;
+    height: 50px;
+    padding-top: 10px;
+  }
+  
+  .chart-container {
+    margin-top: 100px; 
+  }
+
+  .bar-chart {
+    width: 50%;
+  }
+
+  .staff {
+      margin-left: 35%;
+  }
+
+  .button-cancel {
+      margin-right:10px 
+  }
+
+  .logout {
+    text-decoration: none;
+    float: right;
+    padding-right: 20px;
+  }
+
+  .err-login {
+    margin: 10px 0;
+  }
+  
+  .login-button {
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .row-marin {
+    margin: 5px 0;
+  }
+
+  @keyframes App-logo-spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+  
